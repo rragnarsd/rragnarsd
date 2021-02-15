@@ -1,4 +1,4 @@
-### Hi, I'm Regina 👋 
+### Hi, I'm Regina 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other newbies
