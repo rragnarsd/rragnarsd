@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other newbies
 - 💬 Ask me about anything 👀
-- ⚡ Fun fact: I love :family_man_woman_girl_girl: 🐘, 🐕, ☀️, 🥟, 🌮, and the 🌎.... I've visited 43 countries and still more to come! 
+- ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :sun_with_face:, :dumpling: :taco: and the :earth:.... I've visited 43 countries and still more to come! 
 
 ### Connect with me:
 
