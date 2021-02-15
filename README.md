@@ -1,10 +1,9 @@
-### Hi, I'm Regina 👋
-
+### Hi, I'm Regina 👋 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other newbies
 - 💬 Ask me about anything 👀
-- ⚡ Fun fact: I've visited 43 countries, and still counting!
+- ⚡ Fun fact: I love 🐘, 🐕, ☀️, 🥟, 🌮, and the 🌎.... I've visited 43 countries and still more to come! 
 
 ### Connect with me:
 
