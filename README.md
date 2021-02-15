@@ -1,19 +1,14 @@
-### Hi there 👋
-
-![](https://img.shields.io/badge/<Code>-<Flutter>-informational??style=for-the-badge&logo=?logo=appveyor<?logo=flutter>&logoColor=white&color=2bbc8a)
-
-
-<!--
-**rragnarsd/rragnarsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi, I'm Regina 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter 
+- 👯 I’m looking to collaborate with other newbies
+- 💬 Ask me about everything 🤣
+- ⚡ Fun fact: I've visited 43 countries, and still counting!
+
+### Connect with me:
+
+[<img align="left" alt="rragnarsd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Facebook.svg" />][Facebook]
+[<img align="left" alt="rragnarsd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
