@@ -1,13 +1,9 @@
-### Hi, I'm Regina 👋
+### Hi, I'm Regina 👋 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other newbies
 - 💬 Ask me about anything 👀
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:.... I've visited 43 countries and still more to come! 
-
-### Connect with me:
-
-
 
 <br />
 
