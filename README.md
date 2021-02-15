@@ -7,11 +7,27 @@
 
 <br />
 
+### Connect with me! 
+
+<a href="https://github.com/rragnarsd" target="_blank">
+   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+<a href="https://www.facebook.com/ReginaR87" target="_blank">
+   <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@reginaragnarsd" target="_blank">
+   <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+    <a href="https://www.instagram.com/reginar87/" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+
 <h4>Programming Languages:</h4>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C SHARP" width="30px" src="https://github.com/rragnarsd/rragnarsd/blob/main/csharp.png" />
+<img align="left" alt="DART" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <br/>
 
 <h4>Frameworks and libraries</h4>
