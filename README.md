@@ -26,4 +26,5 @@
 <img align="left" alt="AndroidStudio" width="26px" src="https://github.com/rragnarsd/rragnarsd/blob/main/android.png" />
 <img align="left" alt="StyledComponents" width="26px" src="https://github.com/rragnarsd/rragnarsd/blob/main/styled-co.png" />
 <img align="left" alt="Csharp" width="30px" src="https://github.com/rragnarsd/rragnarsd/blob/main/csharp.png" />
+<img align="left" alt="Csharp" width="30px" src="https://github.com/rragnarsd/rragnarsd/blob/main/bootstrap.png" />
 
