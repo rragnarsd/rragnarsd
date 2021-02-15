@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other newbies
-- 💬 Ask me about everything 🤣
+- 💬 Ask me about anything 👀
 - ⚡ Fun fact: I've visited 43 countries, and still counting!
 
 ### Connect with me:
