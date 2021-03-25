@@ -11,6 +11,9 @@
 <a href="https://github.com/rragnarsd" target="_blank">
    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+<a href="https://www.linkedin.com/in/reginaragnarsd/" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/linkedin%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
 <a href="https://www.facebook.com/ReginaR87" target="_blank">
    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
