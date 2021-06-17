@@ -1,5 +1,5 @@
 ### Hi, I'm Regina 👋 
-- 🔭 I’m currently working on Flutter PetAdoption App
+- 🔭 I’m currently working with API's
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with you?
 - 💬 Ask me about anything 👀
