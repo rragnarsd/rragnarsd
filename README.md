@@ -38,9 +38,6 @@
 <img align="left" alt="STYLED COMPONENTS" width="26px" src="https://github.com/rragnarsd/rragnarsd/blob/main/styled-co.png" />
 <br/>
 
-<h4>Databases</h4>
-<img align="left" alt="FIREBASE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
 <h4>IDE/Editors</h4>
 <img align="left" alt="VISUAL STUDIO CODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="ANDROID STUDIO" width="26px" src="https://github.com/rragnarsd/rragnarsd/blob/main/android.png" />
@@ -48,6 +45,7 @@
 
 <h4>App Development</h4>
 <img align="left" alt="FLUTTER" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="FIREBASE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <br/>
 
 <h4>Version Control</h4>
