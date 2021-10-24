@@ -1,6 +1,7 @@
 ### Hi, I'm Regina 👋 
-- 🔭 I’m currently focusing on the Flutter Apprentice book 
-- 🌱 I’m currently expanding my knowledge in Flutter 
+- 🔭 Currently building a Dog Adoption Mobile App
+- :books: Currently reading the Flutter Apprentice book 
+- :sound: I listen to podcasts almost everyday, especially true crime :hammer:
 - 💬 Ask me about Widgets :blush:
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:.... I've visited 44 countries and still more to come! 
 
