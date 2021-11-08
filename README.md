@@ -14,9 +14,6 @@
 <a href="https://www.linkedin.com/in/reginaragnarsd/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/ReginaR87" target="_blank">
-   <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
   <a href="https://medium.com/@reginaragnarsd" target="_blank">
    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
