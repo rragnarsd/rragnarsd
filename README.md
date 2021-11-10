@@ -17,9 +17,6 @@
   <a href="https://medium.com/@reginaragnarsd" target="_blank">
    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
-    <a href="https://www.instagram.com/reginar87/" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
 
 <h4>Programming Languages:</h4>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
