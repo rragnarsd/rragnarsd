@@ -4,7 +4,7 @@
 - :sound: I listen to podcasts almost everyday, especially true crime :hammer:
 - 💬 Ask me about Widgets :blush:
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:
-- 🌎 I've visited 44  and still more to come! - Next :arrow_forward: :airplane: <strong>Italy - Rome</strong>
+- 🌎 I've visited 44  and still more to come! - Next :arrow_forward: :airplane: <strong>?</strong>
 
 
 ### Connect with me! 
