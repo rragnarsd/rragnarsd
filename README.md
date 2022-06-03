@@ -22,3 +22,10 @@
 <img align="left" alt="VISUAL STUDIO CODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="ANDROID STUDIO" width="26px" src="https://github.com/rragnarsd/rragnarsd/blob/main/android.png" />
 <br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=rragnarsd&count_private=true&show_icons=true&hide=contribs,prs)" />
+</a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rragnarsd&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
