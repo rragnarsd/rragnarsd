@@ -29,3 +29,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rragnarsd&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rragnarsd)](https://git.io/streak-stats)
