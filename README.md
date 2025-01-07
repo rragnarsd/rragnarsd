@@ -1,6 +1,6 @@
 ### Hi, I'm Regina 👋 
 - 🔭 I’m currently working on Flutter
-- :unlock: Learning Stacked
+- :unlock: Learning UI/UX
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:
 - 🌎 I've visited 61 countries and still more to come! - Next :arrow_forward: :airplane: <strong>  </strong>
 
