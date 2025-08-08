@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Flutter
 - :unlock: Learning UI/UX
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:
-- 🌎 I've visited 64 countries and still more to come! - Next :airplane: <strong> Sweden </strong>
+- 🌎 I've visited 64 countries and still more to come! - Next :airplane: <strong> </strong>
 
 
 ### Connect with me! 
