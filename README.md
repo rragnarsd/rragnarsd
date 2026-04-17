@@ -1,7 +1,7 @@
 ### Hi, I'm Regina 👋 
 - 🤓 I’m currently learning Shopify.
 - ⚡ Fun fact: I love :family_man_woman_girl_girl: :elephant: :dog2: :panda_face: :computer: :sun_with_face:, :dumpling: :taco: :icecream: and the :earth_americas:
-- 🌎 I've visited 64 countries and still more to come! - Next :airplane: <strong> Caribbean </strong>
+- 🌎 I've visited 64 countries and still more to come! - Next :airplane: <strong>  </strong>
 
 ### Connect with me! 
 
